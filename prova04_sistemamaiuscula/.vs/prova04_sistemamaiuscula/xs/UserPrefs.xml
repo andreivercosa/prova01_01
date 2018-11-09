@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{40EAE64A-2E8E-432D-AFFB-98352860444A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="prova04_sistemamaiuscula/Program.cs">
+    <Files>
+      <File FileName="prova04_sistemamaiuscula/Program.cs" Line="12" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.prova04__sistemamaiuscula PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

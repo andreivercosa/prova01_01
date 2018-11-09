@@ -1,0 +1,11 @@
+/Users/aluno/Projects/poo_olamundo/poo_olamundo/bin/Debug/netcoreapp2.1/poo_olamundo.deps.json
+/Users/aluno/Projects/poo_olamundo/poo_olamundo/bin/Debug/netcoreapp2.1/poo_olamundo.runtimeconfig.json
+/Users/aluno/Projects/poo_olamundo/poo_olamundo/bin/Debug/netcoreapp2.1/poo_olamundo.runtimeconfig.dev.json
+/Users/aluno/Projects/poo_olamundo/poo_olamundo/bin/Debug/netcoreapp2.1/poo_olamundo.dll
+/Users/aluno/Projects/poo_olamundo/poo_olamundo/bin/Debug/netcoreapp2.1/poo_olamundo.pdb
+/Users/aluno/Projects/poo_olamundo/poo_olamundo/obj/Debug/netcoreapp2.1/poo_olamundo.csprojAssemblyReference.cache
+/Users/aluno/Projects/poo_olamundo/poo_olamundo/obj/Debug/netcoreapp2.1/poo_olamundo.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/poo_olamundo/poo_olamundo/obj/Debug/netcoreapp2.1/poo_olamundo.AssemblyInfoInputs.cache
+/Users/aluno/Projects/poo_olamundo/poo_olamundo/obj/Debug/netcoreapp2.1/poo_olamundo.AssemblyInfo.cs
+/Users/aluno/Projects/poo_olamundo/poo_olamundo/obj/Debug/netcoreapp2.1/poo_olamundo.dll
+/Users/aluno/Projects/poo_olamundo/poo_olamundo/obj/Debug/netcoreapp2.1/poo_olamundo.pdb

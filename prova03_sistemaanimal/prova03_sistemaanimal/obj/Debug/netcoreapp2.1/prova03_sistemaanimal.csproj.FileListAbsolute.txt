@@ -1,0 +1,11 @@
+/Users/aluno/Projects/prova03_sistemaanimal/prova03_sistemaanimal/bin/Debug/netcoreapp2.1/prova03_sistemaanimal.deps.json
+/Users/aluno/Projects/prova03_sistemaanimal/prova03_sistemaanimal/bin/Debug/netcoreapp2.1/prova03_sistemaanimal.runtimeconfig.json
+/Users/aluno/Projects/prova03_sistemaanimal/prova03_sistemaanimal/bin/Debug/netcoreapp2.1/prova03_sistemaanimal.runtimeconfig.dev.json
+/Users/aluno/Projects/prova03_sistemaanimal/prova03_sistemaanimal/bin/Debug/netcoreapp2.1/prova03_sistemaanimal.dll
+/Users/aluno/Projects/prova03_sistemaanimal/prova03_sistemaanimal/bin/Debug/netcoreapp2.1/prova03_sistemaanimal.pdb
+/Users/aluno/Projects/prova03_sistemaanimal/prova03_sistemaanimal/obj/Debug/netcoreapp2.1/prova03_sistemaanimal.csprojAssemblyReference.cache
+/Users/aluno/Projects/prova03_sistemaanimal/prova03_sistemaanimal/obj/Debug/netcoreapp2.1/prova03_sistemaanimal.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/prova03_sistemaanimal/prova03_sistemaanimal/obj/Debug/netcoreapp2.1/prova03_sistemaanimal.AssemblyInfoInputs.cache
+/Users/aluno/Projects/prova03_sistemaanimal/prova03_sistemaanimal/obj/Debug/netcoreapp2.1/prova03_sistemaanimal.AssemblyInfo.cs
+/Users/aluno/Projects/prova03_sistemaanimal/prova03_sistemaanimal/obj/Debug/netcoreapp2.1/prova03_sistemaanimal.dll
+/Users/aluno/Projects/prova03_sistemaanimal/prova03_sistemaanimal/obj/Debug/netcoreapp2.1/prova03_sistemaanimal.pdb

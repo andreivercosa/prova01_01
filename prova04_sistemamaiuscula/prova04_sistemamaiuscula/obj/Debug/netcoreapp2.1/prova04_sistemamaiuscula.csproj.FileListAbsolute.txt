@@ -1,0 +1,11 @@
+/Users/aluno/Projects/prova04_sistemamaiuscula/prova04_sistemamaiuscula/bin/Debug/netcoreapp2.1/prova04_sistemamaiuscula.deps.json
+/Users/aluno/Projects/prova04_sistemamaiuscula/prova04_sistemamaiuscula/bin/Debug/netcoreapp2.1/prova04_sistemamaiuscula.runtimeconfig.json
+/Users/aluno/Projects/prova04_sistemamaiuscula/prova04_sistemamaiuscula/bin/Debug/netcoreapp2.1/prova04_sistemamaiuscula.runtimeconfig.dev.json
+/Users/aluno/Projects/prova04_sistemamaiuscula/prova04_sistemamaiuscula/bin/Debug/netcoreapp2.1/prova04_sistemamaiuscula.dll
+/Users/aluno/Projects/prova04_sistemamaiuscula/prova04_sistemamaiuscula/bin/Debug/netcoreapp2.1/prova04_sistemamaiuscula.pdb
+/Users/aluno/Projects/prova04_sistemamaiuscula/prova04_sistemamaiuscula/obj/Debug/netcoreapp2.1/prova04_sistemamaiuscula.csprojAssemblyReference.cache
+/Users/aluno/Projects/prova04_sistemamaiuscula/prova04_sistemamaiuscula/obj/Debug/netcoreapp2.1/prova04_sistemamaiuscula.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/prova04_sistemamaiuscula/prova04_sistemamaiuscula/obj/Debug/netcoreapp2.1/prova04_sistemamaiuscula.AssemblyInfoInputs.cache
+/Users/aluno/Projects/prova04_sistemamaiuscula/prova04_sistemamaiuscula/obj/Debug/netcoreapp2.1/prova04_sistemamaiuscula.AssemblyInfo.cs
+/Users/aluno/Projects/prova04_sistemamaiuscula/prova04_sistemamaiuscula/obj/Debug/netcoreapp2.1/prova04_sistemamaiuscula.dll
+/Users/aluno/Projects/prova04_sistemamaiuscula/prova04_sistemamaiuscula/obj/Debug/netcoreapp2.1/prova04_sistemamaiuscula.pdb

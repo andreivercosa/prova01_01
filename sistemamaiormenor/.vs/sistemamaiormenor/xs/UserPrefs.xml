@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{827EC361-AFC4-4A8D-94FE-5799A6D43F92}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sistemamaiormenor/Program.cs">
+    <Files>
+      <File FileName="sistemamaiormenor/Program.cs" Line="12" Column="1" />
+      <File FileName="sistemamaiormenor/Maiormenor.cs" Line="9" Column="30" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.sistemamaiormenor PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

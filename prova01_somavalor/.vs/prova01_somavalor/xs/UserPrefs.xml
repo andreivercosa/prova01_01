@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{BF6A5923-A838-483A-9166-3AE79B96A6E4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="prova01_somavalor/Program.cs">
+    <Files>
+      <File FileName="prova01_somavalor/Program.cs" Line="4" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.prova01__somavalor PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

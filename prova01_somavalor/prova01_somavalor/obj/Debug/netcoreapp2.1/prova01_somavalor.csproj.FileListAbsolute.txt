@@ -1,0 +1,11 @@
+/Users/aluno/Projects/prova01_somavalor/prova01_somavalor/bin/Debug/netcoreapp2.1/prova01_somavalor.deps.json
+/Users/aluno/Projects/prova01_somavalor/prova01_somavalor/bin/Debug/netcoreapp2.1/prova01_somavalor.runtimeconfig.json
+/Users/aluno/Projects/prova01_somavalor/prova01_somavalor/bin/Debug/netcoreapp2.1/prova01_somavalor.runtimeconfig.dev.json
+/Users/aluno/Projects/prova01_somavalor/prova01_somavalor/bin/Debug/netcoreapp2.1/prova01_somavalor.dll
+/Users/aluno/Projects/prova01_somavalor/prova01_somavalor/bin/Debug/netcoreapp2.1/prova01_somavalor.pdb
+/Users/aluno/Projects/prova01_somavalor/prova01_somavalor/obj/Debug/netcoreapp2.1/prova01_somavalor.csprojAssemblyReference.cache
+/Users/aluno/Projects/prova01_somavalor/prova01_somavalor/obj/Debug/netcoreapp2.1/prova01_somavalor.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/prova01_somavalor/prova01_somavalor/obj/Debug/netcoreapp2.1/prova01_somavalor.AssemblyInfoInputs.cache
+/Users/aluno/Projects/prova01_somavalor/prova01_somavalor/obj/Debug/netcoreapp2.1/prova01_somavalor.AssemblyInfo.cs
+/Users/aluno/Projects/prova01_somavalor/prova01_somavalor/obj/Debug/netcoreapp2.1/prova01_somavalor.dll
+/Users/aluno/Projects/prova01_somavalor/prova01_somavalor/obj/Debug/netcoreapp2.1/prova01_somavalor.pdb

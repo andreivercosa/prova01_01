@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{B58007DF-2C0D-4E4C-A709-705E2D26EEDE}|Default">
+  <MonoDevelop.Ide.ItemProperties.prova03__sistemaanimal PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="prova03_sistemaanimal/Program.cs">
+    <Files>
+      <File FileName="prova03_sistemaanimal/Program.cs" Line="7" Column="13" />
+      <File FileName="prova03_sistemaanimal/Animal.cs" Line="9" Column="10" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/aluno/Projects/prova06_sistemacliente/prova06_sistemacliente/obj/Debug/netcoreapp2.1/prova06_sistemacliente.csprojAssemblyReference.cache
+/Users/aluno/Projects/prova06_sistemacliente/prova06_sistemacliente/obj/Debug/netcoreapp2.1/prova06_sistemacliente.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/prova06_sistemacliente/prova06_sistemacliente/obj/Debug/netcoreapp2.1/prova06_sistemacliente.AssemblyInfoInputs.cache
+/Users/aluno/Projects/prova06_sistemacliente/prova06_sistemacliente/obj/Debug/netcoreapp2.1/prova06_sistemacliente.AssemblyInfo.cs
+/Users/aluno/Projects/prova06_sistemacliente/prova06_sistemacliente/bin/Debug/netcoreapp2.1/prova06_sistemacliente.deps.json
+/Users/aluno/Projects/prova06_sistemacliente/prova06_sistemacliente/bin/Debug/netcoreapp2.1/prova06_sistemacliente.runtimeconfig.json
+/Users/aluno/Projects/prova06_sistemacliente/prova06_sistemacliente/bin/Debug/netcoreapp2.1/prova06_sistemacliente.runtimeconfig.dev.json
+/Users/aluno/Projects/prova06_sistemacliente/prova06_sistemacliente/bin/Debug/netcoreapp2.1/prova06_sistemacliente.dll
+/Users/aluno/Projects/prova06_sistemacliente/prova06_sistemacliente/bin/Debug/netcoreapp2.1/prova06_sistemacliente.pdb
+/Users/aluno/Projects/prova06_sistemacliente/prova06_sistemacliente/obj/Debug/netcoreapp2.1/prova06_sistemacliente.dll
+/Users/aluno/Projects/prova06_sistemacliente/prova06_sistemacliente/obj/Debug/netcoreapp2.1/prova06_sistemacliente.pdb

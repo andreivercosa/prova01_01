@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{8628D1B7-CD2E-4746-B2A1-4DF5149B26B4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sistemamediaa/Program.cs">
+    <Files>
+      <File FileName="sistemamediaa/Program.cs" Line="18" Column="1" />
+      <File FileName="sistemamediaa/Mediaa.cs" Line="9" Column="37" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.sistemamediaa PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

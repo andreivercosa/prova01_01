@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2D1E563A-3DF1-40FD-8726-35509D51BE7C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="prova02_concatenar/Program.cs">
+    <Files>
+      <File FileName="prova02_concatenar/Program.cs" Line="12" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.prova02__concatenar PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

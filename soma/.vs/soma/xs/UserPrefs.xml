@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{5B6E42F9-F2CA-4621-86D4-AFD90A415E73}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="soma/Soma.cs">
+    <Files>
+      <File FileName="soma/Program.cs" Line="15" Column="115" />
+      <File FileName="soma/Soma.cs" Line="18" Column="20" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.soma PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

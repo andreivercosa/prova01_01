@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{EBEDA0DF-7400-4DE4-B1F2-984558E35477}|Default">
+  <MonoDevelop.Ide.ItemProperties.testandostring PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="testandostring/Program.cs">
+    <Files>
+      <File FileName="testandostring/Program.cs" Line="17" Column="6" />
+      <File FileName="testandostring/Separarnome.cs" Line="25" Column="2" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
